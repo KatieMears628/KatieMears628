@@ -1,9 +1,10 @@
-## Hi there 👋 I'm Katie 
+## Hi there 👋 I'm Katie! 
+
+🔭 I’m currently working on a capstone project for my final course in my masters program, Applied Data Science 
 
 
-
-
-<!--
+<!
+--
 **KatieMears628/KatieMears628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
