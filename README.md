@@ -20,29 +20,16 @@ With a foundation in biochemistry and a passion for integrating quality control 
 
 ### 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-blue)
-
 ![R](https://img.shields.io/badge/-R-green)
-
 ![SQL](https://img.shields.io/badge/-SQL-orange)
-
 ![Tableau](https://img.shields.io/badge/-Tableau-blueviolet)
-
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
-
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-lightgrey)
-
 ![Pandas](https://img.shields.io/badge/-Pandas-blue)
-
 ![NumPy](https://img.shields.io/badge/-NumPy-lightblue)
-
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-darkgreen)
-
 ![Seaborn](https://img.shields.io/badge/-Seaborn-teal)
-
 ![Git](https://img.shields.io/badge/-Git-red)
-
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
-
 ![AWS](https://img.shields.io/badge/-AWS-yellowgreen)
-
 ![Azure](https://img.shields.io/badge/-Azure-blue)
