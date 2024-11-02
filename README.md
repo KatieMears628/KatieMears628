@@ -44,4 +44,5 @@ With a foundation in biochemistry and a passion for integrating quality control 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626)
 
 ![AWS](https://img.shields.io/badge/-AWS-yellowgreen)
+
 ![Azure](https://img.shields.io/badge/-Azure-blue)
