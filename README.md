@@ -15,6 +15,7 @@ With a foundation in biochemistry and a passion for integrating quality control 
 
 ### 🌐 Connect with Me
 [LinkedIn](https://linkedin.com/in/katiemears/)
+[Email](mailto:katieback628@gmail.com)
 
 ### 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-blue)
