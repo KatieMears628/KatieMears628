@@ -6,6 +6,10 @@
 > The objective for this project is to quantify the impact of weather conditions on traffic congestion and accident risk, enabling a deeper understanding of how variables such as precipitation, temperature, and visibility affect the number of auto accidents. 
 
 
+
+### 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/katiemears/)
+
 ### 🔧 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![R](https://img.shields.io/badge/-R-green)
