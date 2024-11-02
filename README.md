@@ -5,8 +5,11 @@ With a foundation in biochemistry and a passion for integrating quality control 
 
 
 🎓 Student at the University of San Diego: **M.S. Applied Data Science - December 2024 Completion**
+
 🌱 I’m learning about: **Predictive Modeling and Data Synchronization**
+
 💬 Ask me about: **Data Science, Python, ML, AI**
+
 🔭 Current Project: **Developing a model for Risk-Based Premiums and Real-Time Safety Guidance in Auto Insurance—quantifying how weather conditions impact traffic risk to support fair pricing and enhance driver safety**
 
 
