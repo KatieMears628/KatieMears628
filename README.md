@@ -1,6 +1,6 @@
 Hi there 👋 I'm Katie!
 
-With a foundation in biochemistry and a passion for integrating quality control and data analytics in life sciences, I bring a strong background in ensuring product integrity within the medical device industry. My career is centered on data-driven post-market surveillance, where I leverage data trending and analysis to enhance strategies, safeguard consumer safety, and drive improvements in product quality.
+With a foundation in biochemistry and a passion for integrating quality assurance and data analytics in life sciences, I bring a strong background in ensuring product integrity within the medical device industry. My career is centered on data-driven post-market surveillance, where I leverage data trending and analysis to enhance strategies, safeguard consumer safety, and drive improvements in product quality.
 
 🎓 **Education:**  
 &nbsp;&nbsp; - *M.S. in Applied Data Science* (University of San Diego, Dec 2024)  
